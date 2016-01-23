@@ -1,5 +1,3 @@
-# RotationController
-
 # 概要
 Unityで使用できるオブジェクトをドラッグで回転させるクラスです。  
 　　
